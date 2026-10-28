@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-AirBand Communications is a company surfaced as a portfolio company of battery-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: battery-ventures
+AirBand Communications, Inc. was a fixed-wireless broadband provider for business customers, founded in 2000 by Andy Lombard and headquartered in Dallas, Texas. It delivered high-speed data, Voice over IP, security and managed services over a last-mile fixed-wireless network, bypassing incumbent local phone companies, and operated in metropolitan markets including Baltimore, Dallas, Fort Worth, Houston, Philadelphia and Phoenix. The company was venture-backed, raising roughly $119M across sixteen rounds from investors including Battery Ventures, M/C Partners and Crescendo Ventures, and grew by acquiring the fixed-wireless business of WindChannel Communications (2006) and Sparkplug (2010). Airband was acquired by United Network Services (UNSi) on 2013-05-15 and no longer operates independently. As of the 2026-07-19 enrichment pass its former domains (airband.com, www.airband.com, airbandcommunications.com) do not resolve (DNS NXDOMAIN), and no developer portal, API documentation, or machine-readable API artifacts of any kind could be found. This company is retained in the network as a historical/defunct record only. Not to be confused with Airband Community Internet, an unrelated UK rural broadband operator.
+
+**Areas:** Company · Telecommunications · Broadband · Fixed Wireless · Internet Service Provider · Voice over IP · Managed Service · Defunct · Acquired
+
+## AirBand Communications on APIs.io (historical record)
+
+Everything profiled for AirBand Communications is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/airband-communications/](https://apis.io/providers/airband-communications/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AirBand Communications: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/airband-communications/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
